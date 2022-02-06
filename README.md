@@ -1,2 +1,7 @@
-# React Weather Api
- ContextAPI, axios, tailwind, weather api
+# Weather APP
+ 
+ ReactJS (ContextAPI)
+ Tailwind.Css
+ OpenWeather.Api
+ Axios.Api
+ 
